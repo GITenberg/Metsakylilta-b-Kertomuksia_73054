@@ -1,0 +1,38 @@
+_repo: Metsakylilta-b-Kertomuksia_73054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tihlä, Hilda
+    aliases:
+    - Tihla, Hilda
+    - Joonaantytär, Hilda Fredrika
+    - Joonaantytar, Hilda Fredrika
+    - Nicklin, Eugenia Ivanovna
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '47390'
+    url: http://www.gutenberg.org/2009/agents/47390
+    wikipedia: https://fi.wikipedia.org/wiki/Hilda_Tihlä
+description: ''
+gutenberg_issued: '2024-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73054'
+language: fi
+pgterms:marc905: 20220621090525tihl
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Kulkuri -- Noidan neuvo -- Tellu -- Kaupustelija -- Ystävän murha
+  -- Rahaa.
+title: 'Metsäkyliltä : $b Kertomuksia'
+url: http://www.gutenberg.org/ebooks/73054
